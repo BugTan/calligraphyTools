@@ -1,4 +1,4 @@
-Help aboyt how to use calligraphy the two tools
+Help about how to use calligraphy the two tools
 ===============================================
 
 1、The chThickness tool 
